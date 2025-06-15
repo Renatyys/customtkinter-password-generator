@@ -14,4 +14,4 @@ It allows you to generate strong passwords with custom settings:
 
 ```bash
 pip install customtkinter
-python main.py
+python generator.py
